@@ -1,7 +1,5 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Valentin-42/count.svg" alt="Visitor's Count" />
-</div>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <!--
 **Valentin-42/Valentin-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
