@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome&animation=twinkling"/>
 
-
+![test](https://komarev.com/ghpvc/?username=Valentin-42&color=green)
 <!--
 **Valentin-42/Valentin-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
