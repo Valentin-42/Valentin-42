@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&animation=fadeIn&height=300&section=header&text=Hello%20World&fontSize=90&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome&animation=twinkling"/>
 
 
 <!--
